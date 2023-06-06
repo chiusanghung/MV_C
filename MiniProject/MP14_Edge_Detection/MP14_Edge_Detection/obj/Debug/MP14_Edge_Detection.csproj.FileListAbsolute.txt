@@ -1,0 +1,21 @@
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\bin\Debug\MP14_Edge_Detection.exe.config
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\bin\Debug\MP14_Edge_Detection.exe
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\bin\Debug\MP14_Edge_Detection.pdb
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.csprojAssemblyReference.cache
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.Form1.resources
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.Properties.Resources.resources
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.csproj.GenerateResource.cache
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.csproj.CoreCompileInputs.cache
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.exe
+E:\Thi_Giac_May\Miniproject14\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\bin\Debug\MP14_Edge_Detection.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\bin\Debug\MP14_Edge_Detection.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\bin\Debug\MP14_Edge_Detection.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP14_Edge_Detection\MP14_Edge_Detection\obj\Debug\MP14_Edge_Detection.MP14.resources

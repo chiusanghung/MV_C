@@ -1,0 +1,81 @@
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\Project05_VebieudoHistogram.exe.config
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\Project05_VebieudoHistogram.exe
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\Project05_VebieudoHistogram.pdb
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\ZedGraph.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\ZedGraph.xml
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\de\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\es\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\fr\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\hu\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\it\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\ja\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\pt\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\ru\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\sk\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\sv\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\tr\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.AssemblyReference.cache
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\obj\Debug\Project05_VebieudoHistogram.Form1.resources
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\obj\Debug\Project05_VebieudoHistogram.Properties.Resources.resources
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.GenerateResource.cache
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.CopyComplete
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\obj\Debug\Project05_VebieudoHistogram.exe
+D:\Tai Lieu\Thi Giac May\Project05_VebieudoHistogram\Project05_VebieudoHistogram\obj\Debug\Project05_VebieudoHistogram.pdb
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\Project05_VebieudoHistogram.exe.config
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\Project05_VebieudoHistogram.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\Project05_VebieudoHistogram.pdb
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\ZedGraph.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\ZedGraph.xml
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\de\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\es\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\fr\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\hu\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\it\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\ja\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\pt\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\ru\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\sk\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\sv\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\tr\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.AssemblyReference.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\Project05_VebieudoHistogram.Form1.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\Project05_VebieudoHistogram.Properties.Resources.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.GenerateResource.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.CopyComplete
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\Project05_VebieudoHistogram.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\Project05_VebieudoHistogram.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\Project05_VebieudoHistogram.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\Project05_VebieudoHistogram.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\Project05_VebieudoHistogram.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\ZedGraph.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\ZedGraph.xml
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\de\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\es\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\fr\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\hu\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\it\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\ja\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\pt\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\ru\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\sk\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\sv\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\tr\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\Project05_VebieudoHistogram.Form1.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\Project05_VebieudoHistogram.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\MP05-BieuDoHistogramAnhXam.csproj.CopyComplete
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\Project05_VebieudoHistogram.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP05-BieuDoHistogramAnhXam\obj\Debug\Project05_VebieudoHistogram.pdb

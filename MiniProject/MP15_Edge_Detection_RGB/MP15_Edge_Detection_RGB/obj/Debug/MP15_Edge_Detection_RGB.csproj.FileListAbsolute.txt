@@ -1,0 +1,21 @@
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\bin\Debug\MP15_Edge_Detection_RGB.exe.config
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\bin\Debug\MP15_Edge_Detection_RGB.exe
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\bin\Debug\MP15_Edge_Detection_RGB.pdb
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.csprojAssemblyReference.cache
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.Form1.resources
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.Properties.Resources.resources
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.csproj.GenerateResource.cache
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.csproj.CoreCompileInputs.cache
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.exe
+E:\Thi_Giac_May\Miniproject15\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\bin\Debug\MP15_Edge_Detection_RGB.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\bin\Debug\MP15_Edge_Detection_RGB.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\bin\Debug\MP15_Edge_Detection_RGB.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP15_Edge_Detection_RGB\MP15_Edge_Detection_RGB\obj\Debug\MP15_Edge_Detection_RGB.MP15.resources

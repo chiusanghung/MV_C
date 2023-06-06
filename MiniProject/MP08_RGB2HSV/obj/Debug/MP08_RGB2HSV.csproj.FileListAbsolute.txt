@@ -1,0 +1,22 @@
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\bin\Debug\Project08_RGBsangHSV.exe.config
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\bin\Debug\Project08_RGBsangHSV.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\bin\Debug\Project08_RGBsangHSV.pdb
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\obj\Debug\MP08_RGB2HSV.csproj.AssemblyReference.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\obj\Debug\MP08_RGB2HSV.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\obj\Debug\Project08_RGBsangHSV.HSV.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\obj\Debug\Project08_RGBsangHSV.Properties.Resources.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\obj\Debug\MP08_RGB2HSV.csproj.GenerateResource.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\obj\Debug\MP08_RGB2HSV.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\obj\Debug\Project08_RGBsangHSV.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP08_RGB2HSV\obj\Debug\Project08_RGBsangHSV.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\bin\Debug\Project08_RGBsangHSV.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\bin\Debug\Project08_RGBsangHSV.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\bin\Debug\Project08_RGBsangHSV.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\obj\Debug\MP08_RGB2HSV.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\obj\Debug\MP08_RGB2HSV.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\obj\Debug\Project08_RGBsangHSV.MP08.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\obj\Debug\Project08_RGBsangHSV.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\obj\Debug\MP08_RGB2HSV.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\obj\Debug\MP08_RGB2HSV.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\obj\Debug\Project08_RGBsangHSV.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP08_RGB2HSV\obj\Debug\Project08_RGBsangHSV.pdb

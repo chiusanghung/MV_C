@@ -1,0 +1,22 @@
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\bin\Debug\MP09_RGB2XYZ.exe.config
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\bin\Debug\MP09_RGB2XYZ.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\bin\Debug\MP09_RGB2XYZ.pdb
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.AssemblyReference.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.XYZ.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.Properties.Resources.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.GenerateResource.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\bin\Debug\MP09_RGB2XYZ.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\bin\Debug\MP09_RGB2XYZ.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\bin\Debug\MP09_RGB2XYZ.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.MP09.resources

@@ -1,0 +1,22 @@
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\bin\Debug\Project07.exe.config
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\bin\Debug\Project07.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\bin\Debug\Project07.pdb
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\obj\Debug\MP07-RGB2HSI.csproj.AssemblyReference.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\obj\Debug\MP07-RGB2HSI.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\obj\Debug\Project07.HSI.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\obj\Debug\Project07.Properties.Resources.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\obj\Debug\MP07-RGB2HSI.csproj.GenerateResource.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\obj\Debug\MP07-RGB2HSI.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\obj\Debug\Project07.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP07_RGB2HSI\obj\Debug\Project07.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\bin\Debug\Project07.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\bin\Debug\Project07.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\bin\Debug\Project07.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\obj\Debug\MP07-RGB2HSI.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\obj\Debug\MP07-RGB2HSI.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\obj\Debug\Project07.MP07.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\obj\Debug\Project07.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\obj\Debug\MP07-RGB2HSI.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\obj\Debug\MP07-RGB2HSI.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\obj\Debug\Project07.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP07_RGB2HSI\obj\Debug\Project07.pdb

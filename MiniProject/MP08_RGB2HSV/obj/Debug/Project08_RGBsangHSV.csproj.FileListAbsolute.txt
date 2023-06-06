@@ -1,0 +1,11 @@
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\obj\Debug\Project08_RGBsangHSV.csproj.AssemblyReference.cache
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\obj\Debug\Project08_RGBsangHSV.csproj.SuggestedBindingRedirects.cache
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\obj\Debug\Project08_RGBsangHSV.Form1.resources
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\obj\Debug\Project08_RGBsangHSV.Properties.Resources.resources
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\obj\Debug\Project08_RGBsangHSV.csproj.GenerateResource.cache
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\obj\Debug\Project08_RGBsangHSV.csproj.CoreCompileInputs.cache
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\bin\Debug\Project08_RGBsangHSV.exe.config
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\bin\Debug\Project08_RGBsangHSV.exe
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\bin\Debug\Project08_RGBsangHSV.pdb
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\obj\Debug\Project08_RGBsangHSV.exe
+E:\MV\Project08_RGBsangHSV\Project08_RGBsangHSV\obj\Debug\Project08_RGBsangHSV.pdb

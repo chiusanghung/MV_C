@@ -1,0 +1,11 @@
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\bin\Debug\MP12_ColorImageSharpening.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\bin\Debug\MP12_ColorImageSharpening.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\bin\Debug\MP12_ColorImageSharpening.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP12_ColorImageSharpening\obj\Debug\MP12_ColorImageSharpening.MP12.resources

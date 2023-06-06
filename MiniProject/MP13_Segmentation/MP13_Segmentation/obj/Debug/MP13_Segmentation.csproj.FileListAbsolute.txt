@@ -1,0 +1,21 @@
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\bin\Debug\MP13_Segmentation.exe.config
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\bin\Debug\MP13_Segmentation.exe
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\bin\Debug\MP13_Segmentation.pdb
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csprojAssemblyReference.cache
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.Form1.resources
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.Properties.Resources.resources
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csproj.GenerateResource.cache
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csproj.CoreCompileInputs.cache
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.exe
+E:\Thi_Giac_May\Miniproject13\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\bin\Debug\MP13_Segmentation.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\bin\Debug\MP13_Segmentation.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\bin\Debug\MP13_Segmentation.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.MP13.resources

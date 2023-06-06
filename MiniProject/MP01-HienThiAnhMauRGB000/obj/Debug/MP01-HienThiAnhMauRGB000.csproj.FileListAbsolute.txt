@@ -1,0 +1,6 @@
+D:\Tai Lieu\Thi Giac May\MiniProject\MP01-HienThiAnhMauRGB000\obj\Debug\MP01-HienThiAnhMauRGB000.csproj.AssemblyReference.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP01-HienThiAnhMauRGB000\obj\Debug\MP01-HienThiAnhMauRGB000.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP01-HienThiAnhMauRGB000\obj\Debug\MiniProject1.MP01.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP01-HienThiAnhMauRGB000\obj\Debug\MP01_HienThiAnhMauRGB000.Properties.Resources.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP01-HienThiAnhMauRGB000\obj\Debug\MP01-HienThiAnhMauRGB000.csproj.GenerateResource.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP01-HienThiAnhMauRGB000\obj\Debug\MP01-HienThiAnhMauRGB000.csproj.CoreCompileInputs.cache

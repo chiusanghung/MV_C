@@ -1,0 +1,11 @@
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\bin\Debug\MP11_ColorImageSmoothing.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\bin\Debug\MP11_ColorImageSmoothing.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\bin\Debug\MP11_ColorImageSmoothing.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP11_ColorImageSmoothing\obj\Debug\MP11_ColorImageSmoothing.MP11.resources

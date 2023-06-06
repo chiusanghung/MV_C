@@ -1,0 +1,22 @@
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\bin\Debug\RGB2CMYK.exe.config
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\bin\Debug\RGB2CMYK.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\bin\Debug\RGB2CMYK.pdb
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.AssemblyReference.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\obj\Debug\RGB2CMYK.CMYK.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\obj\Debug\RGB2CMYK.Properties.Resources.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.GenerateResource.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\obj\Debug\RGB2CMYK.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP06_RGB2CMYK\obj\Debug\RGB2CMYK.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\bin\Debug\RGB2CMYK.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\bin\Debug\RGB2CMYK.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\bin\Debug\RGB2CMYK.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\obj\Debug\RGB2CMYK.MP06.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\obj\Debug\RGB2CMYK.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\obj\Debug\MP06-RGB2CMYK.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\obj\Debug\RGB2CMYK.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP06_RGB2CMYK\obj\Debug\RGB2CMYK.pdb

@@ -1,0 +1,22 @@
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\bin\Debug\MP10_RGB2YCrCb.exe.config
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\bin\Debug\MP10_RGB2YCrCb.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\bin\Debug\MP10_RGB2YCrCb.pdb
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.AssemblyReference.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.YCrCZb.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.Properties.Resources.resources
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.GenerateResource.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.exe
+D:\Tai Lieu\Thi Giac May\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\bin\Debug\MP10_RGB2YCrCb.exe.config
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\bin\Debug\MP10_RGB2YCrCb.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\bin\Debug\MP10_RGB2YCrCb.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.AssemblyReference.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.SuggestedBindingRedirects.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.Properties.Resources.resources
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.GenerateResource.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.exe
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.pdb
+D:\Tai Lieu\Machine Vision\MiniProject\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.MP10.resources
